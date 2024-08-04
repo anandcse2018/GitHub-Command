@@ -1,0 +1,5 @@
+::::::::::::  Git Command  :::::::::::::::
+
+mkdir project				   # Folder created with project name
+git init                                   # Initalized Git
+git status                                 # Show Status of the file
