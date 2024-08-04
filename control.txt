@@ -7,4 +7,5 @@ git add anand.txt                          # anand.txt file add in staged area
 git add -A                                 # Add all file in staged area from untracked stage
 git rm --cached anand.txt                  # Delete anand.txt file form stage area
 git commit -m "Adding new feature"         # Commit file with comment
-
+git stash                                  # bring file to untracked stage
+git stash clear                            # Delete all file
