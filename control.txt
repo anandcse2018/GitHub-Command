@@ -3,3 +3,8 @@
 mkdir project				   # Folder created with project name
 git init                                   # Initalized Git
 git status                                 # Show Status of the file
+git add anand.txt                          # anand.txt file add in staged area
+git add -A                                 # Add all file in staged area from untracked stage
+git rm --cached anand.txt                  # Delete anand.txt file form stage area
+git commit -m "Adding new feature"         # Commit file with comment
+
