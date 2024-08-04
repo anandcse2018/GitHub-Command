@@ -9,3 +9,4 @@ git rm --cached anand.txt                  # Delete anand.txt file form stage ar
 git commit -m "Adding new feature"         # Commit file with comment
 git stash                                  # bring file to untracked stage
 git stash clear                            # Delete all file
+git remote add origin https://an..         # Add remote url
